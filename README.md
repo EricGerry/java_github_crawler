@@ -1,0 +1,2 @@
+# java_github_crawler
+爬取Github上的一些java中的知名项目，做一个简单的类似GitHub趋势功能的程序
